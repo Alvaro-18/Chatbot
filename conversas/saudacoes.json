@@ -1,0 +1,21 @@
+{
+    "conversas": [
+      {
+        "mensagens": ["oi", "oi, tudo bem?", "tudo bem?"],
+        "resposta": "Ola, sou o assistente virtual de viagens! Como posso ajudar voce a planejar sua proxima viagem?"
+      },
+      {
+        "mensagens": ["bom dia"],
+        "resposta": "Bom dia! Que legal que voce esta pensando em viajar. Como posso te ajudar hoje?"
+      },
+      {
+        "mensagens": ["boa tarde"],
+        "resposta": "Boa tarde! Que legal que voce esta pensando em viajar. Como posso te ajudar hoje?"
+      },
+      {
+        "mensagens": ["boa noite"],
+        "resposta": "Boa noite! Que legal que voce esta pensando em viajar. Como posso te ajudar hoje?"
+      }
+    ]
+  }
+  

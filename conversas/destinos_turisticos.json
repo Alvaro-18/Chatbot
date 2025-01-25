@@ -1,0 +1,41 @@
+{
+    "conversas": [
+      {
+        "mensagens": ["destinos turisticos populares?", "poderia me fornecer os melhores destinos turisticos?", "lugares para viajar?"],
+        "resposta": "Eu recomendo os seguintes destinos: Paris, Tokyo, Rio de Janeiro, Barcelona, Dubai, Machu Picchu, Nova York, Santorini. Deseja saber mais sobre algum deles?"
+      },
+      {
+        "mensagens": ["paris", "quero saber mais sobre paris", "eu escolho paris"],
+        "resposta": "A cidade luz, famosa pela Torre Eiffel, o Museu do Louvre e a Catedral de Notre-Dame. Um destino ideal para quem busca arte, historia e romance."
+      },
+      {
+        "mensagens": ["tokyo", "quero saber mais sobre tokyo", "eu escolho tokyo"],
+        "resposta": "Uma mistura unica de tradicao e modernidade, com templos historicos, arranha-ceus impressionantes e uma culinaria incrivel."
+      },
+      {
+        "mensagens": ["rio de janeiro", "quero saber mais sobre rio de janeiro", "eu escolho rio de janeiro"],
+        "resposta": "Famosa pelas suas belas praias, como Copacabana e Ipanema, o Cristo Redentor e o Pao de Acucar. Um destino vibrante e cheio de cultura brasileira."
+      },
+      {
+        "mensagens": ["barcelona", "quero saber mais sobre barcelona", "eu escolho barcelona"],
+        "resposta": "Uma cidade com arquitetura deslumbrante, incluindo as obras de Gaudi, como a Sagrada Familia, e praias incriveis para relaxar."
+      },
+      {
+        "mensagens": ["dubai", "quero saber mais sobre dubai", "eu escolho dubai"],
+        "resposta": "Conhecida por seus luxuosos shoppings, arranha-ceus imponentes e atividades de aventura no deserto. O lugar ideal para quem busca inovacao e luxo."
+      },
+      {
+        "mensagens": ["machu picchu", "quero saber mais sobre machu picchu", "eu escolho machu picchu"],
+        "resposta": "Uma das sete maravilhas do mundo, situada no Peru, e um destino imperdivel para os amantes de historia e aventura, com ruinas incas e vistas deslumbrantes."
+      },
+      {
+        "mensagens": ["nova york", "quero saber mais sobre nova york", "eu escolho nova york"],
+        "resposta": "A capital do mundo, conhecida por seus iconicos pontos turisticos como a Estatua da Liberdade, Times Square e Central Park."
+      },
+      {
+        "mensagens": ["santorini", "quero saber mais sobre santorini", "eu escolho santorini"],
+        "resposta": "Uma ilha grega famosa pelas suas casinhas brancas e igrejas de cupulas azuis, com vistas deslumbrantes e um por do sol incrivel."
+      }
+    ]
+  }
+  
